@@ -1,0 +1,15 @@
+@font-face {
+    font-family: "Livvic";
+    src: url(../fonts/Livvic-Bold.ttf);
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Livvic";
+    src: url(../fonts/Livvic-SemiBold.ttf);
+    font-weight: 600;
+}
+@font-face {
+    font-family: "Livvic";
+    src: url(../fonts/Livvic-Black.ttf);
+    font-weight: 800;
+}
